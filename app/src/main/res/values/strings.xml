@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TopNYT</string>
+    <string name="nyt_title_desc">New York Times Title</string>
+    <string name="loading_message">Fetching articles</string>
+    <string name="ratelimit_exceeded">Ratelimit exceeded,try again later.</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="error_icon">Error Icon\n</string>
+    <string name="retry">Retry</string>
+    <string name="published_date">Published Date\n</string>
+    <string name="article_details">Article Details</string>
+</resources>
